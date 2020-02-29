@@ -1,0 +1,13 @@
+body {
+    body-family:Roboto;
+    font-size: 14px;
+    color: #333;    
+}
+
+h1 {
+    font-family: Merriweather;
+    font-weight: 100;
+    letter-spacing: -0.03em;
+    text-align: center;
+    margin: 20px 0;
+}
